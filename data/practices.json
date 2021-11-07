@@ -1,0 +1,22 @@
+[
+    {
+        "practice_name": "P1",
+        "emr_practice_id": 1,
+        "epion_practice_id": 4
+    },    
+    {
+        "practice_name": "P4",
+        "emr_practice_id": 1,
+        "epion_practice_id": 449
+    },
+    {
+        "practice_name": "P3",
+        "emr_practice_id": 1,
+        "epion_practice_id": 242
+    },    
+    {
+        "practice_name": "P2",
+        "emr_practice_id": 1,
+        "epion_practice_id": 353
+    }
+]

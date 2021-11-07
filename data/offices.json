@@ -1,0 +1,380 @@
+[
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-02-09",
+    "disabled_date": null,
+    "emr_department_ids": [
+      347
+    ],
+    "office_name": "O0"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-02-09",
+    "disabled_date": null,
+    "emr_department_ids": [
+      404,
+      821,
+      765
+    ],
+    "office_name": "O1"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": null,
+    "disabled_date": null,
+    "emr_department_ids": [
+      379
+    ],
+    "office_name": "O2"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-02-09",
+    "disabled_date": null,
+    "emr_department_ids": [
+      282,
+      321,
+      286
+    ],
+    "office_name": "O3"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      28,
+      267,
+      412,
+      578,
+      303
+    ],
+    "office_name": "O4"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-02-09",
+    "disabled_date": null,
+    "emr_department_ids": [
+      275,
+      375,
+      856
+    ],
+    "office_name": "O5"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      79,
+      77
+    ],
+    "office_name": "O6"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      372,
+      402,
+      35
+    ],
+    "office_name": "O7"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      376,
+      340,
+      325,
+      877,
+      878
+    ],
+    "office_name": "O8"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": null,
+    "disabled_date": "2020-03-12",
+    "emr_department_ids": [],
+    "office_name": "O9"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": null,
+    "disabled_date": null,
+    "emr_department_ids": [
+      426
+    ],
+    "office_name": "O10"
+  },
+  {
+    "epion_practice_id": 4,
+    "launched_date": "2021-01-20",
+    "disabled_date": null,
+    "emr_department_ids": [
+      370,
+      29
+    ],
+    "office_name": "O11"
+  },
+  {
+    "epion_practice_id": 449,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      540
+    ],
+    "office_name": "O12"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-02-09",
+    "disabled_date": null,
+    "emr_department_ids": [
+      4644
+    ],
+    "office_name": "O13"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": null,
+    "disabled_date": null,
+    "emr_department_ids": [
+      827,
+      828
+    ],
+    "office_name": "O14"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": "2019-12-26",
+    "emr_department_ids": [
+      823
+    ],
+    "office_name": "O15"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      829
+    ],
+    "office_name": "O16"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-02-09",
+    "disabled_date": null,
+    "emr_department_ids": [
+      854
+    ],
+    "office_name": "O17"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      769
+    ],
+    "office_name": "O18"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": null,
+    "disabled_date": null,
+    "emr_department_ids": [
+      895
+    ],
+    "office_name": "O19"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-02-09",
+    "disabled_date": null,
+    "emr_department_ids": [
+      888
+    ],
+    "office_name": "O20"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": null,
+    "disabled_date": null,
+    "emr_department_ids": [
+      872
+    ],
+    "office_name": "O21"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      426,
+      759
+    ],
+    "office_name": "O22"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      428,
+      766
+    ],
+    "office_name": "O23"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-20",
+    "disabled_date": null,
+    "emr_department_ids": [
+      425,
+      764
+    ],
+    "office_name": "O24"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-02-09",
+    "disabled_date": null,
+    "emr_department_ids": [
+      885
+    ],
+    "office_name": "O25"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      431,
+      760
+    ],
+    "office_name": "O26"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      427
+    ],
+    "office_name": "O27"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      430
+    ],
+    "office_name": "O28"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-10",
+    "disabled_date": null,
+    "emr_department_ids": [
+      636,
+      761
+    ],
+    "office_name": "O29"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-01-20",
+    "disabled_date": null,
+    "emr_department_ids": [
+      637,
+      768
+    ],
+    "office_name": "O30"
+  },
+  {
+    "epion_practice_id": 242,
+    "launched_date": "2021-08-31",
+    "disabled_date": null,
+    "emr_department_ids": [
+      889
+    ],
+    "office_name": "O31"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": "2021-01-19",
+    "disabled_date": "2021-04-30",
+    "emr_department_ids": [],
+    "office_name": "O32"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": "2021-01-10",
+    "disabled_date": "2021-01-28",
+    "emr_department_ids": [
+      30
+    ],
+    "office_name": "O33"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": "2021-01-25",
+    "disabled_date": "2021-04-30",
+    "emr_department_ids": [],
+    "office_name": "O34"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": "2021-01-19",
+    "disabled_date": "2021-02-15",
+    "emr_department_ids": [
+      26
+    ],
+    "office_name": "O35"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": "2021-01-19",
+    "disabled_date": "2021-04-30",
+    "emr_department_ids": [],
+    "office_name": "O36"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": "2021-01-22",
+    "disabled_date": "2021-04-30",
+    "emr_department_ids": [],
+    "office_name": "O37"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": "2021-01-20",
+    "disabled_date": "2021-04-30",
+    "emr_department_ids": [],
+    "office_name": "O38"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": null,
+    "disabled_date": "2021-04-30",
+    "emr_department_ids": [],
+    "office_name": "O39"
+  },
+  {
+    "epion_practice_id": 353,
+    "launched_date": null,
+    "disabled_date": "2021-04-30",
+    "emr_department_ids": [],
+    "office_name": "O40"
+  }
+]
